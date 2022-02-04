@@ -1,0 +1,6 @@
+names:
+- foil-tip
+- hand-and-foil
+nc: 2
+train: Tip-Visualizer-1/train/images
+val: Tip-Visualizer-1/valid/images
